@@ -18,6 +18,6 @@ public class BankingSystem {
 
         System.out.println("Comparison:");
         System.out.println(account1.getBalance() > account2.getBalance() ?
-                "Alice has more balance." : "Bob has more balance.");
+                "Beksultan has more balance." : "Sanjar has more balance.");
     }
 }
